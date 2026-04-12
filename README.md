@@ -4,14 +4,14 @@ I am a beginner in Python, currently improving my skills through practice and sm
 
 ## Repository Content
 
-# python-practice
+### python-practice
 That is the main repo I got.
 You will find here:
 
-# Basic-Scripts
+### Basic-Scripts
 My basic projects as you can see it as file's name. I create some function/fun tools.
 
-# Project-Euler
+### Project-Euler
 Solutions to 15+ Project Euler problems. These exercises helped me improve my problem-solving skills and understanding of algorithms. 
 
 ## Skills Demonstrated
@@ -19,6 +19,11 @@ Solutions to 15+ Project Euler problems. These exercises helped me improve my pr
 - Logical thinking
 - Problem solving
 - Writing clean and simple code
+
+
+## Note
+This repository reflects my personal learning journey and ongoing practice.
+
 
 Feel free to explore my codes here!
 
