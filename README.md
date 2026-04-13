@@ -8,10 +8,10 @@ I am a beginner in Python, currently improving my skills through practice and sm
 That is the main repo I got.
 You will find here:
 
-### Basic-Scripts
+### basic-scripts
 My basic projects as you can see it as file's name. I create some function/fun tools.
 
-### Project-Euler
+### project-euler
 Solutions to 15+ Project Euler problems. These exercises helped me improve my problem-solving skills and understanding of algorithms. 
 
 ## Skills Demonstrated
